@@ -55,7 +55,7 @@ body,
 
 .drop-zone {
   width: var(--container-width);
-  min-height: 275px;
+  min-height: 200px;
   transition: 0.2s all ease-in;
 }
 

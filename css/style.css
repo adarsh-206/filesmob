@@ -49,8 +49,7 @@ body,
 
 .upload-container {
   color: #c4c3ca;
-  border-radius: 25px;
-  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  margin: 10px;
 }
 
 .drop-zone {

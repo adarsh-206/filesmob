@@ -242,7 +242,7 @@ background-color: #1f2029;
 }
 
 .email-container form {
-  border: 2px solid var(--border-color);
+/*   border: 2px solid var(--border-color); */
   width: 100%;
   padding: 15px;
   box-sizing: border-box;

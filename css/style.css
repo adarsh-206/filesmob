@@ -25,9 +25,9 @@ hr {
   border:none;
   border-top:1px dashed #F9A826;
   height:1px;
-  width:100%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  width: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .logo {

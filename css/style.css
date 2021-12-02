@@ -60,7 +60,7 @@ body,
 }
 
 .gradient-border {
-  --borderWidth: 5px;
+  --borderWidth: 3px;
   background: #201e1d;
   position: relative;
   border-radius: var(--borderWidth);

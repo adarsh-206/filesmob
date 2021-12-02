@@ -48,10 +48,7 @@ body,
 }
 
 .upload-container {
-  /* background: #c2bbcc; */
-  /* background: rgba(0,0,0,.5); */
   color: #c4c3ca;
-/* background-color: #1f2029; */
   border-radius: 25px;
   box-shadow: 0 15px 25px rgba(0,0,0,.6);
 }

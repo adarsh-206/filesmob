@@ -264,7 +264,7 @@ background-color: #1f2029;
 
 .email-container input {
   border: none;
-  border-bottom: 2px solid var(--border-color);
+/*   border-bottom: 2px solid var(--border-color); */
   height: 19px;
   font-size: 18px;
   text-align: center;

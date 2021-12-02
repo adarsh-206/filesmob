@@ -48,6 +48,7 @@ body,
 }
 
 .upload-container {
+	background: #201e1d;
   /* background: #c2bbcc; */
   /* background: rgba(0,0,0,.5); */
   color: #c4c3ca;
@@ -197,7 +198,6 @@ background-color: #1f2029;
 
 /* sharing container style */
 .sharing-container {
-  background: #201e1d;
   margin-bottom: 25px;
   width: var(--container-width);
   border-radius: 10px;

@@ -230,7 +230,7 @@ body,
   font-size: 20px;
   border: 2px dashed var(--border-color);
   border-radius: 6px;
-  background: #f5fcff;
+  background: #fefcd3;
   color: #607d8b;
 }
 
@@ -241,7 +241,7 @@ body,
   right: 7px;
   top: 12px;
   cursor: pointer;
-  background: #f5fcff;
+  background: #fefcd3;
 }
 
 .email-container form {
@@ -267,10 +267,12 @@ body,
 
 .email-container input {
   border: none;
-/*   border-bottom: 2px solid var(--border-color); */
-  height: 19px;
-  font-size: 18px;
-  text-align: center;
+    border-bottom: 2px solid var(--border-color);
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    background: #fefcd3;
+    border-radius: 5px;
 }
 
 .email-container input:focus {

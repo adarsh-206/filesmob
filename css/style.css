@@ -302,7 +302,7 @@ body,
   right: 50%;
   transform: translate(50%, 60px);
   padding: 10px 20px;
-  background: var(--light-blue);
+  background: var(--light-yellow);
   color: #fff;
   border-radius: 5px;
   font-size: 18px;

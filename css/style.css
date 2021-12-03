@@ -291,7 +291,7 @@ body,
   cursor: pointer;
 }
 
-.send-btn-container a:hover {
+.send-btn-container button:hover {
       background: var(--main-bg-color);
       color: var(--light-yellow);
   }

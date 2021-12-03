@@ -291,6 +291,11 @@ body,
   cursor: pointer;
 }
 
+.send-btn-container a:hover {
+      background: var(--main-bg-color);
+      color: var(--light-yellow);
+  }
+
 .toast {
   position: absolute;
   bottom: 10px;

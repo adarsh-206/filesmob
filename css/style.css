@@ -194,7 +194,7 @@ body,
 
 /* sharing container style */
 .sharing-container {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   width: var(--container-width);
   border-radius: 10px;
   display: none;

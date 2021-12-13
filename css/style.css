@@ -125,7 +125,7 @@ body,
 .icon-container {
   position: relative;
   width: 110px;
-  height: 125px;
+  height: 135px;
 }
 
 .icon-container img {
@@ -168,7 +168,7 @@ body,
 .progress-container {
   border: 2px solid var(--border-color);
   width: var(--container-width);
-  height: 55px;
+  height: 75px;
   border-radius: 10px;
   margin-bottom: 25px;
   position: relative;

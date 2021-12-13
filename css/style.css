@@ -17,7 +17,7 @@ body {
 }
 
 .qr-left a{
-background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
+color: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet);
  float: left;
  text-decoration: none;
 }

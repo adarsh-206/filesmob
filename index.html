@@ -8,6 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FilesMob - Moving Forward</title>
     <link rel="stylesheet" href="css/style.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
 </head>
 
 <body>
@@ -23,6 +30,7 @@
                 <input type="file" id="fileInput">
                 <div class="title">Drop your Files here or, <span id="browseBtn">browse</span></div>
             </div>
+          
         </form>
         <div class="progress-container">
             <div class="bg-progress"></div>
@@ -38,15 +46,13 @@
         </div>
         <div class="sharing-container">
             <div> <hr> </div>  <p class="expire">Link expires in 24 hrs</p>
-
-
             <div class="input-container">
                 <input type="text" id="fileURL" readonly>
                 <img src="./images/copy-icon.svg" id="copyURLBtn" alt="copy to clipboard icon">
             </div>
-
             <hr>
-            <p class="email-info">Or Send via Email</p>
+            <div class="qr"><a href="https://techie-adarsh.github.io/qr-gen-down/">Generate QR Code</a></div>
+            <div><p class="email-info">Or Send via Email</p></div>
             <div class="email-container">
                 <form id="emailForm" class="gradient-border">
                     <div class="filed">
@@ -63,10 +69,18 @@
                     </div>
                 </form>
             </div>
+           
+     <div class="social">
+        <div id="social">
+			<a class="facebookBtn smGlobalBtn" href="#" ></a>
+			<a class="twitterBtn smGlobalBtn" href="#" ></a>
+			<a class="googleplusBtn smGlobalBtn" href="#" ></a>
+		</div>
+     </div>
         </div>
     </section>
     <div class="image-vector"></div>
-     <div class="toast">Message</div> 
+    <div class="toast">Sample Message</div>
     <!-- github fork button -->
     <a href="https://github.com/techie-adarsh" class="github-corner"
         aria-label="View source on GitHub">

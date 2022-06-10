@@ -404,20 +404,19 @@ body,
       border-color: #00ABE3;
 }
 
-/* google plus button class*/
-.googleplusBtn{
-    background: #e64522;
+/* linkedin button class*/
+.linkedinBtn{
+    background: #0094BC;
 }
 
-.googleplusBtn:before{
+.linkedinBtn:before{
       font-family: "FontAwesome";
-      content: "\f0d5"; /* add googleplus icon */
+      content: "\f0e1"; /* add linkedin icon */
 }
 
-.googleplusBtn:hover{
-      color: #e64522;
+.linkedinBtn:hover{
+      color: #0094BC;
       background: #fff;
-      border-color: #e64522;
 }
 
 

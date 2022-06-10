@@ -314,7 +314,7 @@ body,
 
 .toast {
   position: absolute;
-  bottom: 10px;
+  bottom: -20px;
   right: 50%;
   transform: translate(50%, 60px);
   padding: 10px 20px;

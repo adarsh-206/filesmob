@@ -394,15 +394,16 @@ body,
 
 .twitterBtn:before{
       font-family: "FontAwesome";
+      color: #fff;
       content: "\f099"; /* add twitter icon */
       
 }
 
 .twitterBtn:hover{
       color: #00ABE3;
-      background: #fff;
-      border-color: #00ABE3;
+      background: #222;
 }
+
 
 /* linkedin button class*/
 .linkedinBtn{
